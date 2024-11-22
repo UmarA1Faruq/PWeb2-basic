@@ -1,0 +1,3 @@
+Program basic Next Js
+
+- Instalasi tampilan awal dari NextJS 
